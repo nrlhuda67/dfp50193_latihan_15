@@ -12,7 +12,7 @@
         <textarea name="nama"></textarea>
         <br>
         Password
-        <input type="password">
+        <input type="password" id="kata" name="kata">
         <button type="submit">Go</button>
     </form>
 </body>
